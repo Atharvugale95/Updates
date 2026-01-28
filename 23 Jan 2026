@@ -1,0 +1,6 @@
+Tasks completed:
+Task 1 : Look into ThreadPoolExecutor and ProcessPoolExecutor in Python and understand how they differ and when each one should be used.
+Using that knowledge, add parallel processing to analyze the three log files (small.log, medium.log, and large.log) more efficiently.
+ 
+Task 2 : Learn how regular expressions work in Python using the built-in re module.
+Implement a case-insensitive regex search on the log description field so users can filter log entries using a search pattern.
